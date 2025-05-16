@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m working on: **Aseflow Wellness - E-Commerce Platform (MERN + Django REST)**
+- 🔭 I’m working on: **Aseflow Wellness Live Projects - E-Commerce Platform (MERN + Django REST)**
 - 🌱 Currently Learning: **Next.js | REST API | AWS | System Design**
 - 🛠 Tech Stack: `React`, `Django`, `MongoDB`, `MySQL`, `Python`, `Node.js`, `JavaScript`
 - 💬 Ask me about: **Backend Development, Django, APIs, Git**
@@ -72,7 +72,8 @@
 ### 💼 Featured Projects
 > *(You can add images, short descriptions and links here)*
 
-- 🔷 **Aseflow Wellness Pvt. Ltd. – Live Projects** – Company Portfolio Website Designed & developed from scratch to represent Aseflow’s brand and services. <a href = https://www.aseflow.com>www.aseflow.com </a> (Next.js + AWS Lambda)
+- 🔷 **Aseflow Wellness. – Live Projects** – Company Portfolio Website Designed & developed from scratch to represent Aseflow’s brand and services. <a href = https://www.aseflow.com> www.aseflow.com </a> (HTML, CSS, JavaScript, Bootstrap, Render) - 🛒 E-Commerce Web App (Ongoing)
+- 
 - 🧠 **AI Invoice Scanner** – OCR + NLP powered invoice parser (Python + ML)
 - 🛒 **Ornamental Plant Store** – Django-powered e-commerce with cart & payment integration
 - 🎯 **Customer Segmentation** – RFM-based insights using Python + Matplotlib
