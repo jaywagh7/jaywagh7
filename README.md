@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Jayesh Wagh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#FF5C00;">Jayesh Wagh</span></h1>
+<h3 align="center"><code>A Passionate Full Stack Developer from India 🇮🇳</code></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaywagh7&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavii2810" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Full Stack Development, DSA**
-
-- 👯 I’m looking to collaborate on **Open source Projects**
-
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript**
-
-- 📫 How to reach me **jayeshwagh665@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayesh-wagh-427906224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-wagh-427906224" height="30" width="40" /></a>
-<a href="https://instagram.com/jaayyyyyy__06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaayyyyyy__06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavi_9999" target="blank"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=435&lines=Python+%7C+JavaScript+%7C+Django+%7C+React.js;Building+Projects+that+Solve+Problems;Lifelong+Learner+%26+Team+Player" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaywagh7&label=Profile+Views&color=orange&style=flat" alt="jaywagh7" />
+  <img src="https://img.shields.io/github/followers/jaywagh7?label=Follow&style=social" alt="GitHub followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywagh7&show_icons=true&locale=en&layout=compact" alt="jaywagh7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaywagh7&show_icons=true&locale=en" alt="jaywagh7" /></p>
+### 👨‍💻 About Me
+- 🔭 I’m working on: **Aseflow Wellness - E-Commerce Platform (MERN + Django REST)**
+- 🌱 Currently Learning: **Next.js | REST API | AWS | System Design**
+- 🛠 Tech Stack: `React`, `Django`, `MongoDB`, `MySQL`, `Python`, `Node.js`, `JavaScript`
+- 💬 Ask me about: **Backend Development, Django, APIs, Git**
+- 👯 I’m open to collaborate on: **Open Source & Innovative Projects**
+- 🎯 Goals 2025: **Contribute to 5+ major OSS projects and publish 3 tech blogs**
+- 📬 Reach me: **jayeshwagh665@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaywagh7&" alt="jaywagh7" /></p>
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jayesh-wagh-427906224/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/jaayyyyyy__06" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jayeshwagh665@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaywagh7&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaywagh7&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywagh7&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 💼 Featured Projects
+> *(You can add images, short descriptions and links here)*
+
+- 🔷 **MedTrack** – Medicine Expiry & Stock Tracker (Next.js + AWS Lambda)
+- 🧠 **AI Invoice Scanner** – OCR + NLP powered invoice parser (Python + ML)
+- 🛒 **Ornamental Plant Store** – Django-powered e-commerce with cart & payment integration
+- 🎯 **Customer Segmentation** – RFM-based insights using Python + Matplotlib
+
+---
+
+### ⚡ Fun Fact
+> “I don’t just write code. I solve problems and build ideas that last.”
+
+---
+
