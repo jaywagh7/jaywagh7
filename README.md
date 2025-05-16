@@ -72,7 +72,7 @@
 ### 💼 Featured Projects
 > *(You can add images, short descriptions and links here)*
 
-- 🔷 **MedTrack** – Medicine Expiry & Stock Tracker (Next.js + AWS Lambda)
+- 🔷 **Aseflow Wellness Pvt. Ltd. – Live Projects** – Company Portfolio Website Designed & developed from scratch to represent Aseflow’s brand and services. <a href = https://www.aseflow.com>www.aseflow.com </a> (Next.js + AWS Lambda)
 - 🧠 **AI Invoice Scanner** – OCR + NLP powered invoice parser (Python + ML)
 - 🛒 **Ornamental Plant Store** – Django-powered e-commerce with cart & payment integration
 - 🎯 **Customer Segmentation** – RFM-based insights using Python + Matplotlib
