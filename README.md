@@ -2,7 +2,8 @@
 <h3 align="center"><code>A Passionate Full Stack Developer from India 🇮🇳</code></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=435&lines=Python+%7C+JavaScript+%7C+Django+%7C+React.js;Building+Projects+that+Solve+Problems;Lifelong+Learner+%26+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=700&lines=Python+%7C+JavaScript+%7C+Django+%7C+React.js;Building+Projects+that+Solve+Problems;Lifelong+Learner+%26+Team+Player" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
