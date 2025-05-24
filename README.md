@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=700&lines=Python+%7C+JavaScript+%7C+Django+%7C+React.js;Building+Projects+that+Solve+Problems;Lifelong+Learner+%26+Team+Player" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaywagh7&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaywagh7&label=Profile+Views&color=orange&style=flat" alt="jaywagh7" />
