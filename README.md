@@ -72,7 +72,6 @@
 ---
 
 ### 💼 Featured Projects
-> *(You can add images, short descriptions and links here)*
 
 - 🔷 **Aseflow Wellness. – Live Projects** – Company Portfolio Website Designed & developed from scratch to represent Aseflow’s brand and services. <a href = https://www.aseflow.com> www.aseflow.com </a> (HTML, CSS, JavaScript, Bootstrap, Render) - 🛒 E-Commerce Web App (Ongoing)
 - 🧠 **AI-Powered-Invoice-Processing-System** – A React-based application for Swipe that automates the extraction, processing, and management of invoice data from various file formats. 
